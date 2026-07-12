@@ -1,6 +1,3 @@
-[Задание 2 json.json](https://github.com/user-attachments/files/29939033/2.json.json)# Effective-Mobile-tz
-Решение тестового задания на позицию Junior Системный аналитик
-
 # Анализ требований: Корзина (ТЗ "Петрушка Зеленая")
 ## 1.Логические противоречия и недочёты 
 |Пункт ТЗ|Проблема|
@@ -48,5 +45,8 @@
 ### Задание 2###
  * 1.GET /api/v1/partners/stores?latitude=55.75&longitude=37.62&limit=5
  * 2 [Задание 2 json.json](https://github.com/user-attachments/files/29939043/2.json.json)
+
+### Задание 3###
+[Диаграмма без названия.drawio.html](https://github.com/user-attachments/files/29942640/drawio.html)
 
 
